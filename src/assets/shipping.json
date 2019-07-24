@@ -1,0 +1,14 @@
+[
+    {
+      "type": "Por la noche",
+      "price": 25.99
+    },
+    {
+      "type": "En 2 dias",
+      "price": 9.99
+    },
+    {
+      "type": "Por correos",
+      "price": 2.99
+    }
+  ]
